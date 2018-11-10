@@ -100,5 +100,5 @@ make
 
         请将您在本实验中遇到的疑惑或任何意见与建议反馈给我们。
 
-        [https://github.com/lzw429/neuos-material/issues](https://github.com/lzw429/neuos-material/issues)
+        [https://github.com/lzw429/neuos-guide/issues](https://github.com/lzw429/neuos-guide/issues)
 
