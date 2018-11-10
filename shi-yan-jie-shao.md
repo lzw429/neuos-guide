@@ -1,5 +1,9 @@
 # 实验介绍
 
+{% hint style="info" %}
+本文档通过 GitBook 书写，建议访问 [https://neuos.gitbook.io/guide](https://neuos.gitbook.io/guide) 阅读。
+{% endhint %}
+
 ## 实验目录
 
 1. 初识实验环境
