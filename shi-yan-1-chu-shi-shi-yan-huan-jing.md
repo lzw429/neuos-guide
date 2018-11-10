@@ -188,7 +188,7 @@ make run
 * [vim](https://www.vim.org/)
 * [emacs](https://www.gnu.org/s/emacs/)
 * [atom](https://atom.io/)
-* [codeblocks](www.codeblocks.org/)
+* [codeblocks](www.codeblocks.org)
 
         NEUOS 使用 make 构建，但也可使用 IDE 编辑代码。如 [CLion](https://www.jetbrains.com/clion/download/#section=windows) 集成了全局搜索、终端、图形化版本控制、查看代码结构等功能，能提升开发效率。
 
